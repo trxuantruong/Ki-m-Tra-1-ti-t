@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+html, body{
+    width: 100%;
+}
+a.link, a:active, a:visited{
+    text-decoration: none;
+}
+li {
+    text-decoration: none;
+    list-style: none;
+   
+}
+.logo {
+    text-align: center;
+    padding-top: 50px;
+}
+.chu{ 
+    padding-top: 100px;
+    text-align: center;
+}
+.chu h1{
+    font-size: 130px;
+    color: orangered;
+}
+.chu h3{
+    color: #7b3a43;
+    font-size: 60px;
+}
+.chu p{
+    color: #7b3a43;
+    padding-top: 30px;
+    margin: 0px 200px;
+    font-size: 25px;
+}
+.hinh{
+    padding-top: 100px;
+    text-align: center;
+}
+.icon{
+    display: flex;
+    width: 100%;
+}
+.icon .con{
+    color: #7b3a43;
+    font-size: 30px;
+    padding-left: 50px;
+    width: 50%;
+}
+.icon .yb{
+    padding-right: 50px;
+    text-align: right;
+    width: 50%;
+}
+.icon .yb a{
+    color: #7b3a43;
+    text-decoration: none;
+    font-size: 30px;
+}
+.bg {
+    background-image: url(alo/fff.png);
+}
